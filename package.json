@@ -1,0 +1,15 @@
+{
+  "name": "lab3-nodejs",
+  "version": "1.0.0",
+  "description": "This is the Lab3 of node calculator using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kinjal",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  }
+}
